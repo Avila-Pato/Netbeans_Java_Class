@@ -17,7 +17,6 @@ public class EjercicioIntegrador {
         Bulbasaur bulbasaur = new Bulbasaur();
         Pikachu pikachu = new Pikachu();
         
-        
         // Llamando a los atacantes
 
          squirtle.atacarBurbubja();
